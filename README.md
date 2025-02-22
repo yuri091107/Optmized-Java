@@ -13,6 +13,6 @@ Mostrando como o repetidor está funcionando, colocando de acordo com o número 
 ### Megabyte usado para rodar a aplicação
 Coleto o valor mostrado na primeira imagem '8719992' que consegui visualizar com um cálculo, e como podem ver, o meu script está rodando a 8MB de ram no máximo.
 
-![Imagem 3](https://github.com/yuri091107/Optmized-Java/blob/main/imagem%203.jpeg?raw=true)
+![Imagem 3](https://github.com/yuri091107/Optmized-Java/blob/main/imagem%203.JPG?raw=true)
 
 ---
